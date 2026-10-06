@@ -1,2 +1,0 @@
-# Pseint
-Mis ejercisios
